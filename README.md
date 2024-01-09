@@ -3,12 +3,13 @@
 - > Subtly inspired by; ACOTAR's Spring Court, DND 5e, Animal Crossing,
 and Stardew Valley. I wanted this pack to be focused on aesthetics while also leaving room 
 for convience mods, a large farm/food concentration, and a layer of harder 
-difficulty added to the game. Attached later will be a general wiki for most of the mods compiled here if I have enough time
+difficulty added to the game. Attached later will be a general wiki for most of the mods compiled here if I have enough time.
 
 -----------------------------------------------{⋆ ˚｡⋆୨ ʚɞ ୧⋆ ˚｡⋆}--------------------------------------------------
 
-{ MODLOADER; forge
-{ MC VERSION; 1.20.1
+{ MODLOADER; FORGE <br> 
+{ MC VERS; 1.20.1
+
 - > made with the help of Packwiz and Prism Launcher (૮ ˶´ ᵕˋ ˶ა)!!! thank you to my lovely boyfriend for the emotional support on my first modpack :)
   
 

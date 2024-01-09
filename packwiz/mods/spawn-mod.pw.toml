@@ -1,0 +1,13 @@
+name = "Spawn"
+filename = "spawn-1.0.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rex9wwpz/versions/RXKJiHaV/spawn-1.0.2-forge.jar"
+hash-format = "sha1"
+hash = "4a9ffc09b6bad80bfe21f241bc1f222b4ad7e550"
+
+[update]
+[update.modrinth]
+mod-id = "rex9wwpz"
+version = "RXKJiHaV"

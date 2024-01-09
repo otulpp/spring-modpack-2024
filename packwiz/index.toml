@@ -1,6 +1,51 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "a9dbd40b259794dcd23e39f6c5f184788308e85b1be7d5dd0276c7eca56b8907"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "97336843286ec40ea61a10b44fad7f0fa8dec96598636ee1e59731cb9bf124af"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "0228a91f523d16f54e263e336814eba86e0d2b0d5326e14ca5d8ce4a4f374e30"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
 metafile = true
@@ -11,8 +56,38 @@ hash = "fe98992b80f62f53bd6a77a166a792d6ce655c65661402e47484bff420cf237d"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "38fc0d1293e36c0e9a7a750ba8c51cc5587b6dfc8d0ac39a9e2110b17fce6ed3"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "0c9bddfb4fde72ad3f49e60c25937ab078b4771e8aa360cbb2fc39727f4755d1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "deb593fe7568d28fd43189fd08ba5986a24543fc2867c00c61a973da75fbdbc6"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
+metafile = true
+
+[[files]]
 file = "mods/fabulous-flowers.pw.toml"
 hash = "bf4ded735b133b4c863fd59ccd11a37cad5b6089e35d4f0bf85f6871725b26f9"
+metafile = true
+
+[[files]]
+file = "mods/fantasy-furniture.pw.toml"
+hash = "5b068cd6b35719602816bacce587a9122a59d40b01e4af6bb5a86ce2047043b2"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
 metafile = true
 
 [[files]]
@@ -31,8 +106,63 @@ hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "d661638fb33a9dc60a5ba84b5216dbc374a5184e15e5304c4b0111d06d8a1837"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "a75deca17a8563eeed07eeb66125484f4bfc19f4fc7ace3827dfec68d31c52ec"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "0e7d0f763673558843e7b3c43be1f1e20fb6034a9d7ef37d1886f134a75eb2d7"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "8e84057af40649316e60061dd09c32ab62140c7333818c2f20bc7a0c46720468"
+metafile = true
+
+[[files]]
 file = "mods/occultcraft.pw.toml"
 hash = "52a2cfbb26f58db6b5a16924e9e2bbdbdbff43aa2160964f8e5345540ceaf75e"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "40cc73a4b593269fba023b961d4aa97264373d9ad8331e15181463b8fe6e23d3"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "49e021e36597c5897050cb5fb75ca22a36283fbb410a3320035a0ffaf5a657af"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "f7714416fd9cc1a822359ea6ee04b604c943c666663f2694a377dfc890ce382d"
+metafile = true
+
+[[files]]
+file = "mods/spawn-mod.pw.toml"
+hash = "f1cdb1b2c78e36bb2f899b5cb96173c564c01397c9f34aa71bd164d00f108fb8"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "846e5450dd20b8b8a2987fd034b225da89bed99b968ad937f2564cb99d1fe27a"
 metafile = true
 
 [[files]]
@@ -43,6 +173,16 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d6acbdec54bad3470251a4e3fa81dc4143c1fcc4272f38d03e1bba3868a4e13a"
+metafile = true
+
+[[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "297fc8e0b3ebf787ccc881d00242dccb1b3930ba37268a5f51a02f14428bfedd"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "0cfda946dddf3020188f4521a8a9467134ce5cc7bb1cce6f0beaff2406d98044"
 metafile = true
 
 [[files]]

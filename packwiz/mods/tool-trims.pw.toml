@@ -1,0 +1,13 @@
+name = "Tool Trims"
+filename = "tool-trims-mod-v2-0-2e-1-20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXeEiQk1/versions/fHTTYQaJ/tool-trims-mod-v2-0-2e-1-20.jar"
+hash-format = "sha1"
+hash = "21039e5c441cc4038e3f9e21260f79d8457dc362"
+
+[update]
+[update.modrinth]
+mod-id = "uXeEiQk1"
+version = "fHTTYQaJ"
