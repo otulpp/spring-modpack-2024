@@ -1,0 +1,13 @@
+name = "Farmer GUI"
+filename = "Farmer GUI (1.4) 1.20-1.20.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HtpG3F7r/versions/wyCsIuXN/Farmer%20GUI%20%281.4%29%201.20-1.20.2.zip"
+hash-format = "sha1"
+hash = "a4b134cdb482984bd7bfeb821ed0709f8329941d"
+
+[update]
+[update.modrinth]
+mod-id = "HtpG3F7r"
+version = "wyCsIuXN"

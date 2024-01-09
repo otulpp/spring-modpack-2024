@@ -1,0 +1,13 @@
+name = "Flower Seeds 2"
+filename = "FlowerSeeds2-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8411f3b23559e202af0154fcb0221f3bf5277ade"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4800977
+project-id = 445955

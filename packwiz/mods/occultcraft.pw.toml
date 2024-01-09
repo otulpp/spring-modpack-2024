@@ -1,0 +1,13 @@
+name = "OccultCraft"
+filename = "OccultCraft 6.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81fe1a7e0644b036f56ca809d6823d09b7f5862a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4886947
+project-id = 454339

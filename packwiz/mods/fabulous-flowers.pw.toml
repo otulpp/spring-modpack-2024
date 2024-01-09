@@ -1,0 +1,13 @@
+name = "Fabulous Flowers"
+filename = "fabulous_flowers-1.1.0[forge-1.20.1].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0237af3ec8bc5cae303dc122b19dd36d5a78b94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4711887
+project-id = 871259

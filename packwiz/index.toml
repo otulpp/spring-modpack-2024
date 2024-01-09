@@ -1,0 +1,51 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+metafile = true
+
+[[files]]
+file = "mods/distracting-trims.pw.toml"
+hash = "fe98992b80f62f53bd6a77a166a792d6ce655c65661402e47484bff420cf237d"
+metafile = true
+
+[[files]]
+file = "mods/fabulous-flowers.pw.toml"
+hash = "bf4ded735b133b4c863fd59ccd11a37cad5b6089e35d4f0bf85f6871725b26f9"
+metafile = true
+
+[[files]]
+file = "mods/flower-seeds-2-fabulous-flowers.pw.toml"
+hash = "0bf72b6b908f28a6069f1df661f4caf3f486115247d2b96a49a453035db62cd0"
+metafile = true
+
+[[files]]
+file = "mods/flower-seeds.pw.toml"
+hash = "7aa1acdac123161a8acde06918341b53cfabd9afafefa1cd7b6dc6013e685316"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
+metafile = true
+
+[[files]]
+file = "mods/occultcraft.pw.toml"
+hash = "52a2cfbb26f58db6b5a16924e9e2bbdbdbff43aa2160964f8e5345540ceaf75e"
+metafile = true
+
+[[files]]
+file = "mods/the-corpse-stalker-cave-dweller-mod.pw.toml"
+hash = "c97e3ab999bc0fc6533e22b347eceb05d8cd33bba324a968eafedf91a19f8850"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d6acbdec54bad3470251a4e3fa81dc4143c1fcc4272f38d03e1bba3868a4e13a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farmer-icons.pw.toml"
+hash = "5eb05c7f0e6e7aed00bff428be7e28c8da81bd8ffc8eb2428e444443f65ebced"
+metafile = true
