@@ -7,7 +7,8 @@ difficulty added to the game. Attached later will be a general wiki for most of 
 
 -----------------------------------------------{⋆ ˚｡⋆୨ ʚɞ ୧⋆ ˚｡⋆}--------------------------------------------------
 
-{ MODLOADER; tbd (fabric/forge)
+{ MODLOADER; forge
+{ MC VERSION; 1.20.1
 - > made with the help of Packwiz and Prism Launcher (૮ ˶´ ᵕˋ ˶ა)!!! thank you to my lovely boyfriend for the emotional support on my first modpack :)
   
 
