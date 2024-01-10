@@ -71,6 +71,11 @@ hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "f8480d2f710b7bca8a3f85d1725b72868e1c195a2634fc10f6e3f95db329715b"
+metafile = true
+
+[[files]]
 file = "mods/fantasy-furniture.pw.toml"
 hash = "5b068cd6b35719602816bacce587a9122a59d40b01e4af6bb5a86ce2047043b2"
 metafile = true
