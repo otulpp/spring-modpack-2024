@@ -156,6 +156,11 @@ hash = "0cfda946dddf3020188f4521a8a9467134ce5cc7bb1cce6f0beaff2406d98044"
 metafile = true
 
 [[files]]
-file = "resourcepacks/farmer-icons.pw.toml"
-hash = "5eb05c7f0e6e7aed00bff428be7e28c8da81bd8ffc8eb2428e444443f65ebced"
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "7f19038e743422e508eabe5a49530bbd8d525d74ee1315ad1a68f023b8f4b639"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
