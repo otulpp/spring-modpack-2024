@@ -96,11 +96,6 @@ hash = "87e3b63a3c7ca824946e03e0212c5ab9706c5632bfc7304759addb0e2b89529c"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
-metafile = true
-
-[[files]]
 file = "mods/distracting-trims.pw.toml"
 hash = "fe98992b80f62f53bd6a77a166a792d6ce655c65661402e47484bff420cf237d"
 metafile = true
@@ -136,16 +131,6 @@ hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "f8480d2f710b7bca8a3f85d1725b72868e1c195a2634fc10f6e3f95db329715b"
 metafile = true
@@ -166,11 +151,6 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "609bb98f1b3384e5484cb05fd1ae4b33704ab5994594a0bf183d00a254d285c4"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2890eb9f1e5225eab48d302910b05e8c2fde03550a29123ad717b0c180366cd2"
 metafile = true
@@ -183,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
-metafile = true
-
-[[files]]
-file = "mods/lazurite.pw.toml"
-hash = "c397996477dbd2c0055f4737422f8882f890afb6084003ec465f34067dbcf4f4"
 metafile = true
 
 [[files]]
@@ -228,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "1b81dd66034ae46b30ca85679c1482596caf26ca6e71c820f5cdeade760e5b93"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
 metafile = true
 
 [[files]]
