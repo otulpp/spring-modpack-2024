@@ -1,6 +1,6 @@
 name = "YUNG's API"
 filename = "YungsApi-1.20-Forge-4.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/HIRzLg0r/YungsApi-1.20-Forge-4.0.2.jar"
