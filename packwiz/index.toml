@@ -26,6 +26,11 @@ hash = "a9dbd40b259794dcd23e39f6c5f184788308e85b1be7d5dd0276c7eca56b8907"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "97336843286ec40ea61a10b44fad7f0fa8dec96598636ee1e59731cb9bf124af"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
 metafile = true
 
 [[files]]
@@ -66,8 +76,18 @@ hash = "6b9bfad1ddf13f84427480a5b8e9dbfb261d339692c12042e3105416710c0889"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "f99d86319f474bc75585c6cba1927f868846f91ab87ce8dcfe936b3462412296"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1b9ee39fd1356323e4079873e9513535f635e5681d94ac8fb5bc2487dfbd5b78"
 metafile = true
 
 [[files]]
@@ -91,6 +111,11 @@ hash = "38fc0d1293e36c0e9a7a750ba8c51cc5587b6dfc8d0ac39a9e2110b17fce6ed3"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "f0f49ff245a4551a6e87187731a3d4d2217aab641e290217a24ef115df31825e"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0c9bddfb4fde72ad3f49e60c25937ab078b4771e8aa360cbb2fc39727f4755d1"
 metafile = true
@@ -108,6 +133,16 @@ metafile = true
 [[files]]
 file = "mods/edf-remastered.pw.toml"
 hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
 metafile = true
 
 [[files]]
@@ -131,13 +166,28 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "609bb98f1b3384e5484cb05fd1ae4b33704ab5994594a0bf183d00a254d285c4"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
+hash = "2890eb9f1e5225eab48d302910b05e8c2fde03550a29123ad717b0c180366cd2"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "7b460acaa50fb6814f31028a47d6e885c0faf7b6fe1f3d303eec85314920147a"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
+metafile = true
+
+[[files]]
+file = "mods/lazurite.pw.toml"
+hash = "c397996477dbd2c0055f4737422f8882f890afb6084003ec465f34067dbcf4f4"
 metafile = true
 
 [[files]]
@@ -151,8 +201,8 @@ hash = "a75deca17a8563eeed07eeb66125484f4bfc19f4fc7ace3827dfec68d31c52ec"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "eaabffb04f7d8b06c4a8470a144540c7a754bcadf460e783b1d5774ad941fbf6"
+file = "mods/memoryleakfix.pw.toml"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
@@ -176,8 +226,8 @@ hash = "52a2cfbb26f58db6b5a16924e9e2bbdbdbff43aa2160964f8e5345540ceaf75e"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
+file = "mods/resourceful-lib.pw.toml"
+hash = "1b81dd66034ae46b30ca85679c1482596caf26ca6e71c820f5cdeade760e5b93"
 metafile = true
 
 [[files]]
@@ -211,6 +261,11 @@ hash = "297fc8e0b3ebf787ccc881d00242dccb1b3930ba37268a5f51a02f14428bfedd"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
+metafile = true
+
+[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "0cfda946dddf3020188f4521a8a9467134ce5cc7bb1cce6f0beaff2406d98044"
 metafile = true
@@ -218,6 +273,41 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "9596ecdbcf7d207f0fcf37fbca04a310d4932ae6797dcc57d10f63af142feac0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "e9c2a30dd97e0e0955e06d3e3ad8c7f31af792d24c55100a74278a8733d0f43a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "6b8473061f26f0fd0f8d759d0144dc3bc3681e7ea03b1b82e477721455cb2038"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "4353ffe53f1dcf34093430446f30629d5f23ae10839dd766ea4438806d915a78"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "db6896c98e5aa2ffc2a184be04cfeef2fffe1784382337984d3d85cdce9df649"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "584b719bb17c63ca4bb1432f45af46a17e1bce6307565f13b9c0298bb80f6945"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "d92d38a261d5c8449b33c114ba3391567c5aca8853301928746de2386348b50b"
 metafile = true
 
 [[files]]
