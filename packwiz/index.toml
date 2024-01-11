@@ -6,8 +6,18 @@ hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "c0dae52b7d1e73e8055536b7032b01e5f091bfdfa65a41401d778e99094d62dd"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "ca52b58cf0540bcec5d8b0318cddb371683b6f3f87ad9b925ff600ddd330f461"
 metafile = true
 
 [[files]]
@@ -18,6 +28,16 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "97336843286ec40ea61a10b44fad7f0fa8dec96598636ee1e59731cb9bf124af"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "897f1247fd595e1bf90a2dde57a8ee35aeffca6fac1475dce794d7a4576dc011"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
@@ -41,8 +61,23 @@ hash = "0228a91f523d16f54e263e336814eba86e0d2b0d5326e14ca5d8ce4a4f374e30"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "6b9bfad1ddf13f84427480a5b8e9dbfb261d339692c12042e3105416710c0889"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-threads.pw.toml"
+hash = "87e3b63a3c7ca824946e03e0212c5ab9706c5632bfc7304759addb0e2b89529c"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
 metafile = true
 
 [[files]]
@@ -63,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "deb593fe7568d28fd43189fd08ba5986a24543fc2867c00c61a973da75fbdbc6"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "03d3697a00e6c528e7d73e17f9d71220a1ae6e8b9ac4c2637e6dc3d9952ab768"
 metafile = true
 
 [[files]]
@@ -111,8 +151,23 @@ hash = "a75deca17a8563eeed07eeb66125484f4bfc19f4fc7ace3827dfec68d31c52ec"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "eaabffb04f7d8b06c4a8470a144540c7a754bcadf460e783b1d5774ad941fbf6"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "d175da6da5751c95238cf193ddf83d2d9aba806680a7abe1ef368c84b1da7960"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0e7d0f763673558843e7b3c43be1f1e20fb6034a9d7ef37d1886f134a75eb2d7"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
@@ -141,6 +196,11 @@ hash = "f1cdb1b2c78e36bb2f899b5cb96173c564c01397c9f34aa71bd164d00f108fb8"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d6acbdec54bad3470251a4e3fa81dc4143c1fcc4272f38d03e1bba3868a4e13a"
 metafile = true
@@ -153,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "0cfda946dddf3020188f4521a8a9467134ce5cc7bb1cce6f0beaff2406d98044"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
 metafile = true
 
 [[files]]
