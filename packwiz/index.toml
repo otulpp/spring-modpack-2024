@@ -6,6 +6,11 @@ hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "4a89308a4115842a8912c11d8a3d40a2b9fbd47584d474bd53919717281100fd"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "c0dae52b7d1e73e8055536b7032b01e5f091bfdfa65a41401d778e99094d62dd"
 metafile = true
@@ -22,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "a9dbd40b259794dcd23e39f6c5f184788308e85b1be7d5dd0276c7eca56b8907"
+hash = "d90cbc54f2cc0b2832fcf08faf78835ee8d739f23bf842952c69db4f23d854f0"
 metafile = true
 
 [[files]]
@@ -126,8 +131,18 @@ hash = "03d3697a00e6c528e7d73e17f9d71220a1ae6e8b9ac4c2637e6dc3d9952ab768"
 metafile = true
 
 [[files]]
+file = "mods/ecospherical-expansion.pw.toml"
+hash = "11739b3679b75aff6bfae17b5cafdad6935b9e5c0ca5cfbb3cbd28c7a1f0394b"
+metafile = true
+
+[[files]]
 file = "mods/edf-remastered.pw.toml"
 hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
 metafile = true
 
 [[files]]
@@ -196,18 +211,8 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
-file = "mods/occultcraft.pw.toml"
-hash = "52a2cfbb26f58db6b5a16924e9e2bbdbdbff43aa2160964f8e5345540ceaf75e"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "1b81dd66034ae46b30ca85679c1482596caf26ca6e71c820f5cdeade760e5b93"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
 metafile = true
 
 [[files]]
@@ -226,18 +231,8 @@ hash = "f1cdb1b2c78e36bb2f899b5cb96173c564c01397c9f34aa71bd164d00f108fb8"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
-metafile = true
-
-[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d6acbdec54bad3470251a4e3fa81dc4143c1fcc4272f38d03e1bba3868a4e13a"
-metafile = true
-
-[[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "297fc8e0b3ebf787ccc881d00242dccb1b3930ba37268a5f51a02f14428bfedd"
 metafile = true
 
 [[files]]
@@ -248,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "c90ea63a60095439c515a53508695db46eba1680bd8df9b7adbaadfb8ed70732"
-metafile = true
-
-[[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
 metafile = true
 
 [[files]]

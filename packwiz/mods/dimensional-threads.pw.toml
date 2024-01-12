@@ -1,6 +1,6 @@
 name = "Dimensional Threads Reforked"
 filename = "dimthread-1.20.1-v1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/V92cR3aK/versions/4Pbba3Qs/dimthread-1.20.1-v1.0.0.jar"
