@@ -161,6 +161,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/forgotten-mobs.pw.toml"
+hash = "1187ee4a8166f2ae1102994024378051f7ba5ec88740d99a25de4c805dac65a5"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2890eb9f1e5225eab48d302910b05e8c2fde03550a29123ad717b0c180366cd2"
 metafile = true
@@ -186,6 +191,11 @@ hash = "a75deca17a8563eeed07eeb66125484f4bfc19f4fc7ace3827dfec68d31c52ec"
 metafile = true
 
 [[files]]
+file = "mods/medieval-origins-revival.pw.toml"
+hash = "6354d54aea95d169f620194a212f8c3efb0b5531b6fc7f8e80dee5c93c5fd847"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -203,6 +213,16 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "eb156c89b37c02ca60e6ae884b33c92c5db7bd7cb90a6f9f0995b0e766bd0345"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "60a9be9637e3fc4ae4342a369cbeebeac4bcab3a5b0f2bef1acd5e8fbafc930f"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "b765e99d8f549eb37f4cf04faf44aae113156bf5f6145b4f3e1ee704ae39c4ca"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Forgotten Mobs"
+filename = "forgottenmobs-1.20.1 - 2.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/60bxuMsl/versions/xYvDdgkf/forgottenmobs-1.20.1%20-%202.8.0.jar"
+hash-format = "sha1"
+hash = "386093fa77b172f96fc587b59a071e8557148d41"
+
+[update]
+[update.modrinth]
+mod-id = "60bxuMsl"
+version = "xYvDdgkf"
