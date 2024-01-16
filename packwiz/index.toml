@@ -16,6 +16,11 @@ hash = "c0dae52b7d1e73e8055536b7032b01e5f091bfdfa65a41401d778e99094d62dd"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
@@ -46,6 +51,11 @@ hash = "897f1247fd595e1bf90a2dde57a8ee35aeffca6fac1475dce794d7a4576dc011"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "072fe6ea98520df441325294e7e17382afb015b26bd33ba5546a3fc5379fab20"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
@@ -53,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "120c13ce7fabf1ba68bf0594ca3445b34c9a9e47cbec376b354a868a3ae0bcff"
 metafile = true
 
 [[files]]
@@ -146,6 +161,11 @@ hash = "f8480d2f710b7bca8a3f85d1725b72868e1c195a2634fc10f6e3f95db329715b"
 metafile = true
 
 [[files]]
+file = "mods/experimental-settings-disabler.pw.toml"
+hash = "89084ab71f9a1f656799a58b9cbb53801fd883c60f75f97f777c5beb87e4cfaf"
+metafile = true
+
+[[files]]
 file = "mods/fantasy-furniture.pw.toml"
 hash = "5b068cd6b35719602816bacce587a9122a59d40b01e4af6bb5a86ce2047043b2"
 metafile = true
@@ -191,6 +211,11 @@ hash = "a75deca17a8563eeed07eeb66125484f4bfc19f4fc7ace3827dfec68d31c52ec"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "11076d97e1627a4355d0bc985896766d50f9161e38f22f50a7abdbdad371e6ad"
+metafile = true
+
+[[files]]
 file = "mods/medieval-origins-revival.pw.toml"
 hash = "6354d54aea95d169f620194a212f8c3efb0b5531b6fc7f8e80dee5c93c5fd847"
 metafile = true
@@ -203,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "d175da6da5751c95238cf193ddf83d2d9aba806680a7abe1ef368c84b1da7960"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "44ccf262bc88b2a23a63861f3eb19b8e92b56cb58dbad5d7d14b0092ecbee57f"
 metafile = true
 
 [[files]]
@@ -223,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "b765e99d8f549eb37f4cf04faf44aae113156bf5f6145b4f3e1ee704ae39c4ca"
+metafile = true
+
+[[files]]
+file = "mods/rats.pw.toml"
+hash = "b866bd3d88a52bb8a83c6552f84a94b0f364b002a22859cf38f8cddf72d1b20e"
 metafile = true
 
 [[files]]
