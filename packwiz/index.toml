@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/canary.properties"
+hash = "e38722dc4cace405360b5e8ae70b9c8750a22887db6ef3e0dce22b1a7143b38f"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/arachnae.json"
+hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/goblin.json"
+hash = "121d3be5c8baf3d7376a9e3863176b0960275695b87b8116aa0bc2f5cc09ccf1"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/pixie.json"
+hash = "d97c82fd0111ba29f5ef21f680060a470fb6faa7d2369142fa0be266b0085e6b"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/siren.json"
+hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/origins/origins/avian.json"
+hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/origins/origins/human.json"
+hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/origins/origins/merling.json"
+hash = "22ec881f91cb04f43ff232909e94178f350e045aace947a3d60c552281f1cbcd"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/springmp/powers/green.json"
+hash = "e98fd6ce05d9af924060c141d49ffb6a74c1a17a8a704637c0f5b65c8f67cd23"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/pack.mcmeta"
+hash = "00ee43f0d377c76c6462e88bb108359c74a6d06a725eb24b52b0ad2a03517a23"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
 metafile = true
@@ -183,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2890eb9f1e5225eab48d302910b05e8c2fde03550a29123ad717b0c180366cd2"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
 metafile = true
 
 [[files]]
