@@ -9,7 +9,8 @@
         "origins:conduit_power_on_land",
         "origins:air_from_potions",
         "medievalorigins:siren/seduce",
-        "mermod:fabulous_fins"
+        "mermod:fabulous_fins",
+        "springmp:blue"
     ],
     "icon": {
         "item": "minecraft:sea_lantern"

@@ -1,0 +1,8 @@
+{
+    "name": "transwucent",
+    "description": "see thru with TINGE",
+    "type": "origins:model_color",
+    "alpha": 0.75,
+    "blue": 0.1,
+    "green": 0.1
+}

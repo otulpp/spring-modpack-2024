@@ -9,8 +9,16 @@ file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/
 hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
 
 [[files]]
+file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/banshee.json"
+hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
+
+[[files]]
 file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/goblin.json"
 hash = "121d3be5c8baf3d7376a9e3863176b0960275695b87b8116aa0bc2f5cc09ccf1"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/moon_elf.json"
+hash = "918474f07a71ffb84af0ac8df3b50705ea8a7df289797112507cbd9071e34177"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/pixie.json"
@@ -30,11 +38,19 @@ hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/data/origins/origins/merling.json"
-hash = "22ec881f91cb04f43ff232909e94178f350e045aace947a3d60c552281f1cbcd"
+hash = "d3d0ad8f7112308d379c701593ccc27d8600a56a081884f859e24531e77c486d"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/springmp/powers/blue.json"
+hash = "067ebbaa6cd0207beb47129d1e2dfabb08e49ba35b405cbb2f5c4294279ffec1"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/data/springmp/powers/green.json"
 hash = "e98fd6ce05d9af924060c141d49ffb6a74c1a17a8a704637c0f5b65c8f67cd23"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/springmp/powers/trans.json"
+hash = "6f06c9759aaef34da544bb3e96e367a88cd02ef17a221b4a05986f43b784e322"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/pack.mcmeta"

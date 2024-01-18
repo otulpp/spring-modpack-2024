@@ -1,0 +1,8 @@
+{
+    "name": "blub",
+    "description": "for blu ness",
+    "type": "origins:model_color",
+    "red": 0.6,
+    "green": 0.6,
+    "blue": 1
+}
