@@ -1,0 +1,13 @@
+name = "Aquatic Additions"
+filename = "aquaticadditionsBETA3.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kvmNKS5S/versions/IssTEhtb/aquaticadditionsBETA3.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "86fc337ac8cad646ed5278ecb99dd6727fd83a6d"
+
+[update]
+[update.modrinth]
+mod-id = "kvmNKS5S"
+version = "IssTEhtb"

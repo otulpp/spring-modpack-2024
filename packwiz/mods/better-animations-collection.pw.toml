@@ -1,0 +1,13 @@
+name = "Better Animations Collection"
+filename = "BetterAnimationsCollection-v8.0.0-1.20.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoOVj3J3/versions/IWYoMQYX/BetterAnimationsCollection-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "06db0b9e79cd2b7df8501f51304e4c884b1e84a1"
+
+[update]
+[update.modrinth]
+mod-id = "OoOVj3J3"
+version = "IWYoMQYX"
