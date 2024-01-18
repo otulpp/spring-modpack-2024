@@ -92,6 +92,11 @@ hash = "d90cbc54f2cc0b2832fcf08faf78835ee8d739f23bf842952c69db4f23d854f0"
 metafile = true
 
 [[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "ffec0eb07da96e0cdb4c751814676510c9d495e82d290cd24b0f272f5994c62c"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
@@ -232,6 +237,11 @@ hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "74146465d158af800f797dd8470f971c6c2b3f8bfdca3ab49bcaf224a61f546b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -332,6 +342,11 @@ hash = "49e021e36597c5897050cb5fb75ca22a36283fbb410a3320035a0ffaf5a657af"
 metafile = true
 
 [[files]]
+file = "mods/simple-hydration.pw.toml"
+hash = "8cdd4d238b81a37cfed610db38037456db133f4fe4cd325a0e095a4827171b34"
+metafile = true
+
+[[files]]
 file = "mods/spawn-mod.pw.toml"
 hash = "f1cdb1b2c78e36bb2f899b5cb96173c564c01397c9f34aa71bd164d00f108fb8"
 metafile = true
@@ -339,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d6acbdec54bad3470251a4e3fa81dc4143c1fcc4272f38d03e1bba3868a4e13a"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "ed9f3adc51548afe0756eb9e527a1272dda6b407e27f00457659c283edea14ea"
 metafile = true
 
 [[files]]
@@ -374,6 +394,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "7f19038e743422e508eabe5a49530bbd8d525d74ee1315ad1a68f023b8f4b639"
+metafile = true
+
+[[files]]
+file = "resourcepacks/montanas-bushier-kelp.pw.toml"
+hash = "21d168d2107a36e1189be35d398399c283a5dbcfb3a3ca1bd3040347c0879df3"
 metafile = true
 
 [[files]]
