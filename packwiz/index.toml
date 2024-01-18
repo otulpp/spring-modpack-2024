@@ -247,6 +247,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "107d43eaec4b656e198ac68571315ec47ed3f143b8d76800d88df702a678f041"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2890eb9f1e5225eab48d302910b05e8c2fde03550a29123ad717b0c180366cd2"
 metafile = true
@@ -274,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
 hash = "a75deca17a8563eeed07eeb66125484f4bfc19f4fc7ace3827dfec68d31c52ec"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "820b8e95154a84682a1ac6509d58203cc2b3f12a52b44e41172a0465935dae76"
 metafile = true
 
 [[files]]
@@ -347,8 +357,23 @@ hash = "8cdd4d238b81a37cfed610db38037456db133f4fe4cd325a0e095a4827171b34"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "f7714416fd9cc1a822359ea6ee04b604c943c666663f2694a377dfc890ce382d"
+metafile = true
+
+[[files]]
 file = "mods/spawn-mod.pw.toml"
 hash = "f1cdb1b2c78e36bb2f899b5cb96173c564c01397c9f34aa71bd164d00f108fb8"
+metafile = true
+
+[[files]]
+file = "mods/species.pw.toml"
+hash = "3953ac0eb81d402025a5ebefff82709dbedc8a411df8a70afc5149ab7e083309"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "a576257576024e304fc6b179cd6ee485d747a3d8b9e2ef5fc1d5c7d7a86ebb6d"
 metafile = true
 
 [[files]]
@@ -369,6 +394,16 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "c90ea63a60095439c515a53508695db46eba1680bd8df9b7adbaadfb8ed70732"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "28df223dfb6b7f35f71487224bbb630fe6db6f03a3a357bf2f15a3fafb98dd63"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "ea249f3828b5ac118f8e7c42924e45fa266d3464a79b2f7cdfc52c4d14513612"
 metafile = true
 
 [[files]]
