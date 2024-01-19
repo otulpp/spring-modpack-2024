@@ -591,11 +591,6 @@ hash = "3390341b9c4dcb58811f634642d7caf12613b0d3ad8480cd49749d4d270e5fa9"
 metafile = true
 
 [[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
-metafile = true
-
-[[files]]
 file = "mods/wizards.pw.toml"
 hash = "863b5cd7f792a496cc69164e30d2e5d81f3276b24a9173674de5d0fa8980156f"
 metafile = true
