@@ -453,12 +453,12 @@ metafile = true
 
 [[files]]
 file = "mods/underwater-enchanting.pw.toml"
-hash = "fd7f8eb55c497de3c045c0f5e8a766c842e9c191b049af08954f31973c4b1cc5"
+hash = "3390341b9c4dcb58811f634642d7caf12613b0d3ad8480cd49749d4d270e5fa9"
 metafile = true
 
 [[files]]
 file = "mods/wwoo.pw.toml"
-hash = "28df223dfb6b7f35f71487224bbb630fe6db6f03a3a357bf2f15a3fafb98dd63"
+hash = "290621ae12ef318d4b29f52bfc05a8491104a04174513f7553140a344268ea61"
 metafile = true
 
 [[files]]
