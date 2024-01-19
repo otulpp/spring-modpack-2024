@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/aether-common.toml"
+hash = "37784a9a0aedf5fec89afefc68fd7c7e870e275b43c05fdaff424904a253cabc"
+
+[[files]]
 file = "config/bluemap/core.conf"
 hash = "4a7b830cb5c49243e292842932c17f8512403f0b8aa3f951aeac762f6240ed28"
 
@@ -51,6 +55,10 @@ hash = "e38722dc4cace405360b5e8ae70b9c8750a22887db6ef3e0dce22b1a7143b38f"
 [[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "70f698c4beb76f2fdf12c8428fb0e1aab96c8483b3bb5d2f7e5b75dfd69b120f"
+
+[[files]]
+file = "config/rats-common.toml"
+hash = "78c44e6aef92d8a2b42a1872084351138e226265e6cff7d28cdf2f723b77cc83"
 
 [[files]]
 file = "configureddefaults/README.md"
