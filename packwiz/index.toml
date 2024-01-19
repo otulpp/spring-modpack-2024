@@ -57,6 +57,16 @@ file = "global_packs/required_data/origins-disable/pack.mcmeta"
 hash = "00ee43f0d377c76c6462e88bb108359c74a6d06a725eb24b52b0ad2a03517a23"
 
 [[files]]
+file = "global_packs/required_resources/mandalas-gui-dark-mode.pw.toml"
+hash = "7f19038e743422e508eabe5a49530bbd8d525d74ee1315ad1a68f023b8f4b639"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/montanas-bushier-kelp.pw.toml"
+hash = "21d168d2107a36e1189be35d398399c283a5dbcfb3a3ca1bd3040347c0879df3"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
 metafile = true
@@ -154,6 +164,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
 metafile = true
 
 [[files]]
@@ -484,16 +499,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "950475af53112121ff37fb9627973e9b29f824d584ef68123065119a0dab275e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "7f19038e743422e508eabe5a49530bbd8d525d74ee1315ad1a68f023b8f4b639"
-metafile = true
-
-[[files]]
-file = "resourcepacks/montanas-bushier-kelp.pw.toml"
-hash = "21d168d2107a36e1189be35d398399c283a5dbcfb3a3ca1bd3040347c0879df3"
 metafile = true
 
 [[files]]
