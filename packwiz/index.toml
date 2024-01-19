@@ -10,23 +10,23 @@ hash = "4a7b830cb5c49243e292842932c17f8512403f0b8aa3f951aeac762f6240ed28"
 
 [[files]]
 file = "config/bluemap/maps/aether.conf"
-hash = "10151a6a28f3950c5433e9541e975cf625c55b15331419e3ce3b9cef0db652df"
+hash = "1e707bbb28e8e880d0278b39f78d8c597d230f516118242e876ec077b42435f8"
 
 [[files]]
 file = "config/bluemap/maps/end.conf"
-hash = "6c71bc44537a5ca033a32bbb5d4d0473444f3e51a6ee228718332c5ae36c7905"
+hash = "5662c16cdf62c650a8fa1e58021cff210b4d56b80a740f898e1eb9b990ced839"
 
 [[files]]
 file = "config/bluemap/maps/nether.conf"
-hash = "b20adafc7f8a9d3fbd45e7aa2564557253ad4309abf22de559c6ebdcca4e8c38"
+hash = "8a4b0e4ce52aef139019ddb832db13062dec88e04a0074caae2f4b26fa001259"
 
 [[files]]
 file = "config/bluemap/maps/overworld.conf"
-hash = "23c7bd6b79c9028b7b32b74f02c120d0f0b6c74def552998cf7627b5815b6fa1"
+hash = "82cabe7b963d8e520688f1d2bda6d75bec06c7a02050b7697b903008c5b9666e"
 
 [[files]]
 file = "config/bluemap/maps/twilight_forest.conf"
-hash = "f18174c8c62d4844a56c8b33e2c74bfc461226e6330ea336a2ad8cb3a44a1d5d"
+hash = "d3d1a0d16e2633b1e0da43091aa8e9d662206e4c48eb924fd6abc4161e1dbec8"
 
 [[files]]
 file = "config/bluemap/plugin.conf"
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "d90cbc54f2cc0b2832fcf08faf78835ee8d739f23bf842952c69db4f23d854f0"
+hash = "a9dbd40b259794dcd23e39f6c5f184788308e85b1be7d5dd0276c7eca56b8907"
 metafile = true
 
 [[files]]
