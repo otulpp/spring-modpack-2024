@@ -49,6 +49,10 @@ file = "config/canary.properties"
 hash = "e38722dc4cace405360b5e8ae70b9c8750a22887db6ef3e0dce22b1a7143b38f"
 
 [[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "70f698c4beb76f2fdf12c8428fb0e1aab96c8483b3bb5d2f7e5b75dfd69b120f"
+
+[[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
@@ -152,6 +156,11 @@ hash = "f938ba7a9f9fccc1b4e03e10eac702f1364057b6ff3a331d951774b7fc297180"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "faed1a8ed88b10decde5497566ccf4e18c425945fcfbc6078ffa8dc8f5600079"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
@@ -162,8 +171,13 @@ hash = "e0d521cf1a52a23ed3363a4ef21aa10fadcec575d7ef5003847d7b62e0159f2c"
 metafile = true
 
 [[files]]
-file = "mods/better-animations-collection.pw.toml"
-hash = "9ac1ca724e03e33bc78b829ee6299d3f02aadb21c5233f301e157a0a958deb4b"
+file = "mods/azurelib-armor.pw.toml"
+hash = "e9037631f35d6bedf15863b46032c06921c49537018ac43d475e549914d5de86"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "a0d58b1ae5fdbfdf77c255a9dad2ee5694c77396f4f0030eb0b49b71629ef67d"
 metafile = true
 
 [[files]]
@@ -224,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "71435c92604bbfd25ac0bc604b6ada0135a106a19f4c639e7806e6136fec9181"
 metafile = true
 
 [[files]]
@@ -347,6 +366,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "3290fbbb43d941dea0f4f954c88e3e6b1d69dd51331271ec304bccac221fa169"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "e6defe3c20e412bfae7de25c0908a0b270fb3754bad2be9b16c54b3e2e7aa2c6"
 metafile = true
@@ -433,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
@@ -452,8 +476,23 @@ hash = "60a9be9637e3fc4ae4342a369cbeebeac4bcab3a5b0f2bef1acd5e8fbafc930f"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "576d07620d82ba95eb403981a9ba96e1c8fb3098039c732a0c2598a199ef08ec"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "b765e99d8f549eb37f4cf04faf44aae113156bf5f6145b4f3e1ee704ae39c4ca"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "ff8d2e7f3340858e8409b1feaef921ddc7ac6637bc33cbaf1af9256b5f34c277"
+metafile = true
+
+[[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
 metafile = true
 
 [[files]]
@@ -469,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "1b81dd66034ae46b30ca85679c1482596caf26ca6e71c820f5cdeade760e5b93"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
 metafile = true
 
 [[files]]
@@ -494,6 +538,16 @@ metafile = true
 [[files]]
 file = "mods/species.pw.toml"
 hash = "3953ac0eb81d402025a5ebefff82709dbedc8a411df8a70afc5149ab7e083309"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "3aa7821abddca3c5facb1e9bb57883ffd6be56f24aa27f61ac61ad111b9c870a"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "930b34fba49b8fa535d0bd23bcce6329b45ffde876809ba144eefe8489d76938"
 metafile = true
 
 [[files]]
@@ -527,8 +581,23 @@ hash = "c90ea63a60095439c515a53508695db46eba1680bd8df9b7adbaadfb8ed70732"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
 file = "mods/underwater-enchanting.pw.toml"
 hash = "3390341b9c4dcb58811f634642d7caf12613b0d3ad8480cd49749d4d270e5fa9"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "863b5cd7f792a496cc69164e30d2e5d81f3276b24a9173674de5d0fa8980156f"
 metafile = true
 
 [[files]]
