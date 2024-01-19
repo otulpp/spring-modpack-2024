@@ -132,11 +132,6 @@ hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
 metafile = true
 
 [[files]]
-file = "mods/advancement-plaques.pw.toml"
-hash = "ad8eec24ca50321f986faf274ed27713e49bdb7b848630be243154c31c4c1f37"
-metafile = true
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "4a89308a4115842a8912c11d8a3d40a2b9fbd47584d474bd53919717281100fd"
 metafile = true
