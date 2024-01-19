@@ -427,11 +427,6 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
-file = "mods/mineify.pw.toml"
-hash = "2c80d2255289ac0da63aa85db57a1237717e24f90a4dafb778f5a9e95c644b30"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "d175da6da5751c95238cf193ddf83d2d9aba806680a7abe1ef368c84b1da7960"
 metafile = true
