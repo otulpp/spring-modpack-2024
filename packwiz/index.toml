@@ -1,8 +1,68 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "4a7b830cb5c49243e292842932c17f8512403f0b8aa3f951aeac762f6240ed28"
+
+[[files]]
+file = "config/bluemap/maps/aether.conf"
+hash = "10151a6a28f3950c5433e9541e975cf625c55b15331419e3ce3b9cef0db652df"
+
+[[files]]
+file = "config/bluemap/maps/end.conf"
+hash = "6c71bc44537a5ca033a32bbb5d4d0473444f3e51a6ee228718332c5ae36c7905"
+
+[[files]]
+file = "config/bluemap/maps/nether.conf"
+hash = "b20adafc7f8a9d3fbd45e7aa2564557253ad4309abf22de559c6ebdcca4e8c38"
+
+[[files]]
+file = "config/bluemap/maps/overworld.conf"
+hash = "23c7bd6b79c9028b7b32b74f02c120d0f0b6c74def552998cf7627b5815b6fa1"
+
+[[files]]
+file = "config/bluemap/maps/twilight_forest.conf"
+hash = "f18174c8c62d4844a56c8b33e2c74bfc461226e6330ea336a2ad8cb3a44a1d5d"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "526c17706d05ccff505ee369ea115a77dfec9ccddb10f9a5c3d7f2ed3ac5d948"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "e432cc1478308cd47177754911268c4119b14bc2775ff21194efda1001274fb7"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "56f2c15d2f4c752ff197035ed17866d8cf163ac390c1fe35a1f85d30c73d3002"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "ddf324792ac01b6f017f4b3d6535849fddd93cfee73687a9351e8a4fdb68d99c"
+
+[[files]]
 file = "config/canary.properties"
 hash = "e38722dc4cace405360b5e8ae70b9c8750a22887db6ef3e0dce22b1a7143b38f"
+
+[[files]]
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/config/aether-client.toml"
+hash = "1d86c9ca3ad807d6211ac74627acfd74cbaad5e30982ff05f302e7ed68e7f6f4"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "30291aa8f08c81f3aad8786c0a98d5e78111ea831a15787dd17624c3bb2ef390"
+
+[[files]]
+file = "configureddefaults/servers.dat"
+hash = "8b1bb5a955a1981855e5fb0a39b59d3d98498fb6ddd597f3fd73a138e645d6a6"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/data/medievalorigins/origins/arachnae.json"
@@ -322,6 +382,11 @@ hash = "6477b433301f74caaecf17bde886afca92992e21cd1aa0fab220326f567b3475"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
 metafile = true
@@ -359,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
+file = "mods/mineify.pw.toml"
+hash = "2c80d2255289ac0da63aa85db57a1237717e24f90a4dafb778f5a9e95c644b30"
 metafile = true
 
 [[files]]
@@ -499,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "950475af53112121ff37fb9627973e9b29f824d584ef68123065119a0dab275e"
+metafile = true
+
+[[files]]
+file = "serializationisbad.pw.toml"
+hash = "6fba4930fb5476a194256af1c2e1e52eb5315a85d895333277c614eea731a34a"
 metafile = true
 
 [[files]]

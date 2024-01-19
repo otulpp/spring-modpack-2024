@@ -1,0 +1,8 @@
+name = "Serialization Is Bad"
+filename = "serializationisbad.jar"
+side = "both"
+
+[download]
+url = "https://github.com/dogboy21/serializationisbad/releases/download/1.5/serializationisbad-1.5.jar"
+hash-format = "sha1"
+hash = "38a2714ddaf8b2a844ba4007a665371039db2bac"
