@@ -414,6 +414,11 @@ hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b6ed9cae894fd159b6f78f6b66228750f7f38b49bb2c25cab870485bb08d462e"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
 metafile = true
@@ -431,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
 hash = "820b8e95154a84682a1ac6509d58203cc2b3f12a52b44e41172a0465935dae76"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "da40f0376990f0471e35f15a56993a6e7ccc01be7851bf930862b08005c6fbcd"
 metafile = true
 
 [[files]]
@@ -526,11 +536,6 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "40cc73a4b593269fba023b961d4aa97264373d9ad8331e15181463b8fe6e23d3"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "49e021e36597c5897050cb5fb75ca22a36283fbb410a3320035a0ffaf5a657af"
 metafile = true
 
 [[files]]
