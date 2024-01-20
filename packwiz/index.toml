@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6b9bfad1ddf13f84427480a5b8e9dbfb261d339692c12042e3105416710c0889"
+hash = "6c1fa726380fb25c20fc55794be4b8799e3e4e0a19291803137b7f301d7ce7c7"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/female-gender.pw.toml"
-hash = "74146465d158af800f797dd8470f971c6c2b3f8bfdca3ab49bcaf224a61f546b"
+hash = "895326e15daf9bdd1242ead03fc7a3d88903d01f7dfbfe444c8650a3f7e1e060"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "6477b433301f74caaecf17bde886afca92992e21cd1aa0fab220326f567b3475"
+hash = "1fcc22fe33c8d9131420e53ac410018c81d529295fee68694a41ba72bb3bb2a8"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ea249f3828b5ac118f8e7c42924e45fa266d3464a79b2f7cdfc52c4d14513612"
+hash = "329162fc6f6507b979ef4d04cba921894b9da54ace34db26ba4c0c8a7509d0cf"
 metafile = true
 
 [[files]]
