@@ -8,8 +8,14 @@ services:
     ports:
       - "25565:25565"
     environment:
-      EULA: "TRUE"
-      # SEED: ""
+      EULA: true
+      SEED: "-7249281538119163579"
+      TYPE: "FORGE"
+      VERSION: "1.20.1"
+      FORGE_VERSION: "47.2.20"
+      PACKWIZ_URL: "https://otulpp.github.io/spring-modpack-2024/packwiz/pack.toml"
+      MEMORY: "8G"
+      USE_AIKAR_FLAGS: true
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data

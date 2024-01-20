@@ -1,6 +1,6 @@
 name = "CreativeCore"
 filename = "CreativeCore_FORGE_v2.11.18_mc1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/OwUqgdCm/CreativeCore_FORGE_v2.11.18_mc1.20.1.jar"
