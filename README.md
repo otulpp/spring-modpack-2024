@@ -8,16 +8,16 @@ difficulty added to the game. Attached later will be a general wiki for most of 
 
 -----------------------------------------------{⋆ ˚｡⋆୨ ʚɞ ୧⋆ ˚｡⋆}--------------------------------------------------
 
-{ MODLOADER; FORGE <br>
-{ MC VERS; 1.20.1
+{ MOD LOADER; `FORGE` \
+{ MINECRAFT VERSION; `1.20.1`
 
 - > made with the help of Packwiz and Prism Launcher (૮ ˶´ ᵕˋ ˶ა)!!! thank you to my lovely boyfriend for the emotional support on my first modpack :)
   
 -----------------------------------------------{⋆ ˚｡⋆୨ ʚɞ ୧⋆ ˚｡⋆}--------------------------------------------------
 
-# INSTALLATION GUIDE
+## INSTALLATION GUIDE
 
-## usage (client)
+### usage (client)
 
 1. Download Adoptium.
 
@@ -28,9 +28,9 @@ difficulty added to the game. Attached later will be a general wiki for most of 
 | macOS (Intel)    | <https://adoptium.net/temurin/releases/?package=jre&os=mac&arch=x64&version=17> Use the `.pkg` installer. |
 | Linux            | Use your system package manager to install Java 17 JRE or JDK. Any distribution should work, but I like OpenJDK |
 
-2. Download Prism Launcher from <https://prismlauncher.org>. Make sure you get the installer, not the portable.
-3. Run Prism Launcher. During the installation, select the JRE you installed in step one, when it prompts you to select a Java version.
-4. Click "Add Instance" and then "Import". It should look like this:
+1. Download Prism Launcher from <https://prismlauncher.org>. Make sure you get the installer, not the portable.
+2. Run Prism Launcher. During the installation, select the JRE you installed in step one, when it prompts you to select a Java version.
+3. Click "Add Instance" and then "Import". It should look like this:
 
 ![Import screen in Prism Launcher](https://github.com/ryleu/christmas-modpack-2023/raw/main/docs/import.png)
 
@@ -42,7 +42,7 @@ It will also prompt you to add an account, so make sure you log in with the Micr
 
 -----------------------------------------------{⋆ ˚｡⋆୨ ʚɞ ୧⋆ ˚｡⋆}--------------------------------------------------
 
-## usage (server)
+### usage (server)
 
 1. install docker
 2. clone the repo
