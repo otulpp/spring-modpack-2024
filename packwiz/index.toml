@@ -592,6 +592,11 @@ hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "2d5edde4ce59a899c9e44e06a12be9b64470c8a85834598fff676c8688d668d2"
+metafile = true
+
+[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "c90ea63a60095439c515a53508695db46eba1680bd8df9b7adbaadfb8ed70732"
 metafile = true
