@@ -1,5 +1,7 @@
 # Mya's Origins Guide
 
+- NOTICE: Only one person is allowed per origin. You can claim your origin in #origins-choosing. Read these descriptions carefully, as you will not be given a chance to choose again.
+
 ## Arachnid
 
 Arachnae have the strength of a man with the dexterity and cunning of a spider. A truly terrifying hunter.
