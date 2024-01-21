@@ -61,6 +61,10 @@ file = "config/rats-common.toml"
 hash = "78c44e6aef92d8a2b42a1872084351138e226265e6cff7d28cdf2f723b77cc83"
 
 [[files]]
+file = "config/spell_engine/server.json5"
+hash = "d5177dd79eeb189f22dc3ba4d0fb56a33848bfcef9762789382946408a5ea04d"
+
+[[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
