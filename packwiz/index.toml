@@ -142,11 +142,6 @@ hash = "7f19038e743422e508eabe5a49530bbd8d525d74ee1315ad1a68f023b8f4b639"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/montanas-bushier-kelp.pw.toml"
-hash = "21d168d2107a36e1189be35d398399c283a5dbcfb3a3ca1bd3040347c0879df3"
-metafile = true
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
 metafile = true
@@ -369,11 +364,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "50056479cbf8921db75cc5490dd52f8420fd4492dfe2e31ce90460b29e21057e"
-metafile = true
-
-[[files]]
-file = "mods/fastmove.pw.toml"
-hash = "737a8dc5119254e7ddcd20c1f6e6531860ea77c4cea8b7ecb2abae28108f967d"
 metafile = true
 
 [[files]]
