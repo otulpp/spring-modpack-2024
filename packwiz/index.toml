@@ -372,6 +372,11 @@ hash = "50056479cbf8921db75cc5490dd52f8420fd4492dfe2e31ce90460b29e21057e"
 metafile = true
 
 [[files]]
+file = "mods/fastmove.pw.toml"
+hash = "737a8dc5119254e7ddcd20c1f6e6531860ea77c4cea8b7ecb2abae28108f967d"
+metafile = true
+
+[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "895326e15daf9bdd1242ead03fc7a3d88903d01f7dfbfe444c8650a3f7e1e060"
 metafile = true
