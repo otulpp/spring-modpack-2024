@@ -34,7 +34,7 @@ difficulty added to the game. Attached later will be a general wiki for most of 
 
 ![Import screen in Prism Launcher](https://github.com/ryleu/christmas-modpack-2023/raw/main/docs/import.png)
 
-1. Paste this link into the blank space: <..>
+1. Paste this link into the blank space: <https://github.com/otulpp/spring-modpack-2024/files/14002584/springmp24.zip>
 2. Press "OK".
 
 You're done! Double click the instance to run it. The first time you run it, it'll automatically download all of the mods in the pack.
