@@ -86,5 +86,6 @@
                 }
             ]
         }
-    }
+    },
+    "loading_priority": 1
 }
