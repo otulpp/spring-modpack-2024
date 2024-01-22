@@ -365,6 +365,11 @@ hash = "f8480d2f710b7bca8a3f85d1725b72868e1c195a2634fc10f6e3f95db329715b"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "99a2a8efb36693ad6fba3995879d177072a83b9a2df3f657f79cb948ec639f33"
+metafile = true
+
+[[files]]
 file = "mods/experimental-settings-disabler.pw.toml"
 hash = "89084ab71f9a1f656799a58b9cbb53801fd883c60f75f97f777c5beb87e4cfaf"
 metafile = true
