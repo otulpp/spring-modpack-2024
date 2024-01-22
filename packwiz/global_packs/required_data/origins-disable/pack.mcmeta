@@ -1,6 +1,7 @@
 {
     "pack": {
         "pack_format": 15,
-        "description": "Completely removes the Siren, Arachnae, Banshee origin."
+        "description": "Completely removes the Siren, Arachnae, Banshee origin 
+        as well as several origins tweaks."
     }
 }

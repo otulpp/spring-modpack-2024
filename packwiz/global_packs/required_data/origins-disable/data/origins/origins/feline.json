@@ -4,6 +4,7 @@
 		"origins:sprint_jump",
 		"origins:velvet_paws",
 		"origins:nine_lives",
+		"origins:weak_arms",
 		"origins:scare_creepers",
 		"origins:cat_vision"
 	],
@@ -12,5 +13,5 @@
 	},
 	"order": 0,
 	"impact": 2,
-    "loading_priority": 1
+	"loading_priority": 1
 }
