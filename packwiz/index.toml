@@ -109,6 +109,10 @@ file = "global_packs/required_data/origins-disable/data/origins/origins/avian.js
 hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
 
 [[files]]
+file = "global_packs/required_data/origins-disable/data/origins/origins/feline.json"
+hash = "0e5e1f3b036245f0469c2dfffca200c55a7354b8ebf52e175f8890f4801b5ec3"
+
+[[files]]
 file = "global_packs/required_data/origins-disable/data/origins/origins/human.json"
 hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
 
@@ -119,6 +123,10 @@ hash = "d3d0ad8f7112308d379c701593ccc27d8600a56a081884f859e24531e77c486d"
 [[files]]
 file = "global_packs/required_data/origins-disable/data/origins/powers/phantomize_overlay.json"
 hash = "e5a998673855b4ee2500552d599d9b4f42bc79e12a0b377825f604409d605d52"
+
+[[files]]
+file = "global_packs/required_data/origins-disable/data/origins/powers/weak_arms.json"
+hash = "447f348fdb5e0654b66159526851b054bd539c9e512c633fbe45c176904f06a4"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/data/springmp/powers/blue.json"
@@ -134,7 +142,7 @@ hash = "6f06c9759aaef34da544bb3e96e367a88cd02ef17a221b4a05986f43b784e322"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/pack.mcmeta"
-hash = "00ee43f0d377c76c6462e88bb108359c74a6d06a725eb24b52b0ad2a03517a23"
+hash = "3d27db4e91966f848e265dc8d3f44d5d6272f710b30bcea9244204dfafb2d58f"
 
 [[files]]
 file = "global_packs/required_resources/mandalas-gui-dark-mode.pw.toml"
