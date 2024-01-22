@@ -187,6 +187,11 @@ hash = "e9037631f35d6bedf15863b46032c06921c49537018ac43d475e549914d5de86"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "a0d58b1ae5fdbfdf77c255a9dad2ee5694c77396f4f0030eb0b49b71629ef67d"
 metafile = true
@@ -619,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "863b5cd7f792a496cc69164e30d2e5d81f3276b24a9173674de5d0fa8980156f"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "fcf0166adba067f8417ab29f44a23e43363d1bb4caa87ee590edd7972bca4b70"
 metafile = true
 
 [[files]]
