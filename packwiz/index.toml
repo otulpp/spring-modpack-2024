@@ -110,7 +110,7 @@ hash = "c4d2b6a4cd3e4c97eae81db1d3502a16f00d1c9303a2de676e2813761f89002d"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/data/origins/origins/feline.json"
-hash = "2637ee125ee377003d6488cabf92e34057ab8704ebc227761f4cf9d2aaeb1bd9"
+hash = "959296d8b2f46a426a0252af05e91f3abbdf5d90dba4049dc862446f4c635336"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/data/origins/origins/human.json"
@@ -127,10 +127,6 @@ hash = "e5a998673855b4ee2500552d599d9b4f42bc79e12a0b377825f604409d605d52"
 [[files]]
 file = "global_packs/required_data/origins-disable/data/origins/powers/weak_arms.json"
 hash = "447f348fdb5e0654b66159526851b054bd539c9e512c633fbe45c176904f06a4"
-
-[[files]]
-file = "global_packs/required_data/origins-disable/data/springmp/origins/cat.json"
-hash = "78c25eb105aae521fb7dc0c149ab6a1be7de878fe2ec793557dd240ea2a3c295"
 
 [[files]]
 file = "global_packs/required_data/origins-disable/data/springmp/powers/blue.json"
