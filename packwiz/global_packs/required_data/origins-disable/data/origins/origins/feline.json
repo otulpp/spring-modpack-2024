@@ -7,6 +7,11 @@
 		"origins:scare_creepers",
 		"origins:cat_vision"
 	],
-	"unchoosable": true,
+	"icon": {
+		"item": "minecraft:yellow_wool"
+	},
+	
+	"order": 0,
+	"impact": 2,
 	"loading_priority": 1
 }
