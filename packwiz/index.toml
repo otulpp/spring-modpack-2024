@@ -150,6 +150,11 @@ hash = "7f19038e743422e508eabe5a49530bbd8d525d74ee1315ad1a68f023b8f4b639"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "0ebc4981674c04268946b87795d4c5ac7f94aa7422edd139b5123922a2099a34"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
 metafile = true
@@ -222,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "a9dbd40b259794dcd23e39f6c5f184788308e85b1be7d5dd0276c7eca56b8907"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "3771e5b5907e901f0c969b96ee522c76cb58ca44a89158c2efb48b304a524de0"
 metafile = true
 
 [[files]]
@@ -547,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "b866bd3d88a52bb8a83c6552f84a94b0f364b002a22859cf38f8cddf72d1b20e"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
 
 [[files]]
