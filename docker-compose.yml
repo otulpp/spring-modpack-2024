@@ -18,6 +18,7 @@ services:
       PACKWIZ_URL: "https://otulpp.github.io/spring-modpack-2024/packwiz/pack.toml"
       MEMORY: "8G"
       USE_AIKAR_FLAGS: true
+      ICON: data/server-icon.png
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
